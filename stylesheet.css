@@ -17,7 +17,12 @@ div.all {
 }
 
 div.header {
+<<<<<<< HEAD
 	height: 200px;
+=======
+	height: 100px;
+	background-color: #ffcccc;
+>>>>>>> origin/master
 }
 
 div.navbar {
