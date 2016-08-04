@@ -21,9 +21,15 @@ div.header {
 	height: 200px;
 }
 
-div.navbar {
+/*div.navbar {
 	height: 30px;
 	background-color: #C0C9CC;
+	
+}*/
+
+img src.greycolor {
+	border-style: solid;
+	border-color: #C0C9CC;
 }
 
 div.body {
@@ -49,4 +55,6 @@ div.footer {
 
 a.navlink {
 	padding-right: 20px;
+	background-color: #C0C9CC;
+	color: #000000;
 }
