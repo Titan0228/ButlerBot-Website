@@ -1,6 +1,7 @@
 * {
 	box-sizing: border-box; /*Makes sizing include padding and border*/
 	font-family: Century Gothic;
+	background-color: #FAFAFA;
 }
 
 
@@ -17,12 +18,7 @@ div.all {
 }
 
 div.header {
-<<<<<<< HEAD
 	height: 200px;
-=======
-	height: 100px;
-	background-color: #ffcccc;
->>>>>>> origin/master
 }
 
 div.navbar {
