@@ -1,10 +1,6 @@
 * {
 	box-sizing: border-box; /*Makes sizing include padding and border*/
-	font-family: Century Gothic;
-	background-color: #FAFAFA;
 }
-
-
 
 div {
 	width: 100%;
@@ -18,11 +14,13 @@ div.all {
 }
 
 div.header {
-	height: 200px;
+	height: 100px;
+	background-color: #ffcccc;
 }
 
 /*div.navbar {
 	height: 30px;
+<<<<<<< HEAD
 	background-color: #C0C9CC;
 	
 }*/
@@ -30,6 +28,9 @@ div.header {
 img src.greycolor {
 	border-style: solid;
 	border-color: #C0C9CC;
+=======
+	background-color: #99dfff;
+>>>>>>> origin/master
 }
 
 div.body {
@@ -39,17 +40,18 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	
+	background-color: #99ff99;
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	
+	background-color: #ccccff;
 }
 
 div.footer {
 	height: 100px;
+<<<<<<< HEAD
 	
 }
 
@@ -58,3 +60,7 @@ a.navlink {
 	background-color: #C0C9CC;
 	color: #000000;
 }
+=======
+	background-color: #ffe6b3;
+}
+>>>>>>> origin/master
