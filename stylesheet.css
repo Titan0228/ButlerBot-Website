@@ -1,5 +1,8 @@
 * {
 	box-sizing: border-box; /*Makes sizing include padding and border*/
+	
+	font-family: Century Gothic;
+	background-color: #FAFAFA;
 }
 
 div {
@@ -12,10 +15,10 @@ div.all {
 	margin: auto; /*Centers div*/
 	padding: 0px !important;
 }
-
+/*FAFAFA*/
 div.header {
-	height: 100px;
-	background-color: #ffcccc;
+	height: 170px;
+	
 }
 
 /*div.navbar {
@@ -28,9 +31,8 @@ div.header {
 img src.greycolor {
 	border-style: solid;
 	border-color: #C0C9CC;
-=======
+
 	background-color: #99dfff;
->>>>>>> origin/master
 }
 
 div.body {
@@ -40,13 +42,13 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #99ff99;
+	
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ccccff;
+	
 }
 
 div.footer {
