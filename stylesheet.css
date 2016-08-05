@@ -47,7 +47,7 @@ div.content {
 }
 
 div.sidebar {
-	width: 25% !important;
+	width: 35% !important;
 	float: left; /*Puts content and sidebar next to each other*/
 	
 }
@@ -62,6 +62,7 @@ a.navlink {
 	height: 33px;
 	background-color: #C0C9CC;
 	color: #000000;
+
 }
 
 img.logospacing {
@@ -71,8 +72,7 @@ img.logospacing {
 }
 
 img.RobotPic {
-
-	padding-left: 20px;
-	padding-right: -50px;
+	margin: 40px;
+	margin-left: 60px;
 }
 
