@@ -1,0 +1,66 @@
+* {
+	box-sizing: border-box; /*Makes sizing include padding and border*/
+}
+
+div {
+	width: 100%;
+	padding: 5px;
+}
+
+div.all {
+	width: 1000px;
+	margin: auto; /*Centers div*/
+	padding: 0px !important;
+}
+
+div.header {
+	height: 100px;
+	background-color: #ffcccc;
+}
+
+/*div.navbar {
+	height: 30px;
+<<<<<<< HEAD
+	background-color: #C0C9CC;
+	
+}*/
+
+img src.greycolor {
+	border-style: solid;
+	border-color: #C0C9CC;
+=======
+	background-color: #99dfff;
+>>>>>>> origin/master
+}
+
+div.body {
+	padding: 0px !important;
+}
+
+div.content {
+	width: 75% !important;
+	float: left; /*Puts content and sidebar next to each other*/
+	background-color: #99ff99;
+}
+
+div.sidebar {
+	width: 25% !important;
+	float: left; /*Puts content and sidebar next to each other*/
+	background-color: #ccccff;
+}
+
+div.footer {
+	height: 100px;
+<<<<<<< HEAD
+	
+}
+
+a.navlink {
+	padding-right: 20px;
+	background-color: #C0C9CC;
+	color: #000000;
+}
+=======
+	background-color: #ffe6b3;
+}
+origin/master
