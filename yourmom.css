@@ -4,8 +4,9 @@ div.header {
 }
 
 div.navbar {
-	height: 50px;
-	background-color: #E3F8FF;
+	height: 33px;
+	width:100%;
+	background-color: #c0c9cc;
 }
 
 div.body {
@@ -27,4 +28,11 @@ div.sidebar {
 div.footer {
 	height: 100px;
 	background-color: #ffe6b3;
+}
+a.navlink{
+	padding-left:100px;
+	padding-right:100px;
+	height:33px;
+	background-color:#c0c9cc;
+	color:#000000;
 }
