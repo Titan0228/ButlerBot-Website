@@ -2,6 +2,7 @@
 	box-sizing: border-box; /*Makes sizing include padding and border*/
 	
 	font-family: Century Gothic;
+	color: #2E2F2F;
 	background-color: #FAFAFA;
 }
 
@@ -21,12 +22,12 @@ div.header {
 	
 }
 
-/*div.navbar {
-	height: 30px;
-<<<<<<< HEAD
+div.navbar {
+	height: 33px;
+	width: 100%;
 	background-color: #C0C9CC;
 	
-}*/
+}
 
 img src.greycolor {
 	border-style: solid;
@@ -53,16 +54,25 @@ div.sidebar {
 
 div.footer {
 	height: 100px;
-<<<<<<< HEAD
-	
 }
 
 a.navlink {
-	padding-right: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	height: 33px;
 	background-color: #C0C9CC;
 	color: #000000;
 }
-=======
-	background-color: #ffe6b3;
+
+img.logospacing {
+
+	padding-left: 0px;
+	padding-bottom: 45px;
 }
->>>>>>> origin/master
+
+img.RobotPic {
+
+	padding-left: 20px;
+	padding-right: -50px;
+}
+
